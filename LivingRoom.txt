@@ -1,0 +1,5 @@
+
+Living Room:
+
+	This room is conected to ----- and not connected to -----
+	The area of room is -----

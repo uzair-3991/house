@@ -1,0 +1,10 @@
+details:
+
+	This room has ----- windows
+	The color of wall is -----
+	Area of room is -----
+
+utilities:
+	The roomm has AC : Y/N
+	The room has tubelight : Y/N
+	The room is conected to Living room : Y/N

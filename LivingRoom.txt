@@ -1,5 +1,6 @@
 
 Living Room:
 
-	This room is conected to ----- and not connected to Room 2
-	The area of room is 600
+
+	This room is not connected to living room
+  The area of room is 600

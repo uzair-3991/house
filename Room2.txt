@@ -1,10 +1,10 @@
 details:
 
-	This room has ----- windows
-	The color of wall is -----
-	Area of room is -----
+	This room has 1 windows
+	The color of wall is blue
+	Area of room is 350
 
 utilities:
-	The roomm has AC : Y/N
-	The room has tubelight : Y/N
-	The room is conected to Living room : Y/N
+	The roomm has AC : N
+	The room has tubelight : Y
+	The room is conected to Living room : N

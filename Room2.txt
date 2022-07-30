@@ -1,6 +1,6 @@
 details:
 
-	This room has ----- windows
+	This room has 1 windows
 	The color of wall is -----
 	Area of room is -----
 
